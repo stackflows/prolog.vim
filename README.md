@@ -6,10 +6,6 @@ These files seek to change this. Copy them into your `$VIM_RUNTIME` or just `~/.
 
 The files are public domain.
 
-## Maintenance
-
-Note: I am no longer using Vim, or Prolog on a regular basis. Therefore I can no longer improve this package, but I will accept patches. (June 2014)
-
 ## Feature Highlights
 
 - Accounts for pretty much all of Prolog syntax (including DCGs)

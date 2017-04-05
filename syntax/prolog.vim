@@ -1,13 +1,10 @@
 " Vim Syntax File
 "
 " Language:    Prolog
-" Maintainers: Aleksandar Dimitrov <aleks.dimitrov@googlemail.com>
 " Created:     Jul 31st, 2008
-" Changed:     Fri Aug  1 2008
 " Remark:      This file mostly follows
 "              http://www.sics.se/sicstus/docs/3.7.1/html/sicstus_45.html
 "              but also features some SWI-specific enhancements.
-"              The BNF cannot be followed strictly, but I tried to do my best.
 "
 " TODO:        - Difference Lists
 "              - Constraint logic programming
